@@ -9,6 +9,8 @@
   - Example: `private float _speed;`
 - **Protected:** Starts with m_, lowercase first letter
   - Example: `protected float m_speed;`
+- **Getter, Setter:** Upcase first letter
+  - Exampel: `public float Speed{ get{ return speed; } set{ speed = value; }}`
 
 ### Image
 - Starts with img_, lowercase first letter
