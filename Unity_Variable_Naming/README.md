@@ -77,6 +77,6 @@
   - Example:
     ```csharp
     enum CatsColor {
-        BLACK_CAT
+        BlackCat
     }
     ```
