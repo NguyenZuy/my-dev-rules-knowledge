@@ -1,6 +1,4 @@
-# My Developer Rules
-
-## Naming Conventions (Unity C#)
+# UI Toolkit Uss Naming
 
 ### Variables
 - **Public:** Lowercase first letter, no underscores
