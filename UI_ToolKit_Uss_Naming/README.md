@@ -1,9 +1,9 @@
 # UI Toolkit Uss Naming
 
 ### Naming Rules According to BEM (Block Element Modifier) (Main Rule)
-- Structure: `block-element--modifier`
+- Structure: `block__element--modifier`
   - Block: an independent and reusable component in the user interface
-    * Example: `.button, .he ader`
+    * Example: `.button, .header`
   - Element: a part of the block that cannot exist independently outside the block, separated by two underscores '__'
     * Example: `.button__icon, .header__title`
   - Modifier: a variant of the block or element, used to change their appearance or behavior, separated by two dashes '--'
