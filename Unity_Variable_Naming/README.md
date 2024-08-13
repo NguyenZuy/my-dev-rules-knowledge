@@ -1,4 +1,4 @@
-# Unity C# Variablee Naming
+# Unity C# Variable Naming
 
 ### Variables
 - **Public:** Lowercase first letter, no underscores
