@@ -1,0 +1,2 @@
+# My Tips In Unity C#
+- Use `[MethodImpl(MethodImplOptions.AggressiveInlining)]` for small or frequently used methods to encourage the compiler to inline them (replace the method call with the method's content), which can improve performance and reduce overhead.
