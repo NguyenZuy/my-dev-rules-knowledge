@@ -75,8 +75,31 @@
 - Enum names are lowercase
 - Enum values are uppercase with underscores between words
   - Example:
-    ```csharp
+    ``` C#
     enum CatsColor {
         BlackCat
     }
     ```
+
+### Sprite
+- Prefix: function or position,...
+- Suffix: diff size, state,... 
+- Lowercase all character
+- Use `_` between words, prefix, suffix
+- Use number for multiple version
+- Example:
+``` C#
+bg_forest.png
+btn_play.png
+char_warrior.png
+icon_health.png
+btn_play_normal.png
+btn_play_hover.png
+btn_play_disabled.png
+char_knight_idle.png
+char_knight_attack.png
+item_sword_gold.png
+bg_sky_01.png
+bg_sky_02.png
+ui_panel_settings.png
+```
