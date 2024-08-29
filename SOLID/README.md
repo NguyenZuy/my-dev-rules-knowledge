@@ -2,7 +2,7 @@
 
 - Is an arconym for the first five OOP principles.
 - Stand for:
-    👉 S - Single Responsibility
+    - 👉 S - Single Responsibility
     👉 O - Open Slose
     👉 L - Liskov Subsititution 
     👉 I - Interface Segregation
