@@ -1,20 +1,22 @@
 # SOLID Principles in Object-Oriented Programming
 
 - SOLID is an acronym for the first five OOP principles designed to make software designs more understandable, flexible, and maintainable.
+
 - **Stand for:**
     - 👉 [S - Single Responsibility](#s---single-responsibility)
     - 👉 [O - Open Close](#o---open-close)
     - 👉 [L - Liskov Substitution](#l---liskov-substitution)
     - 👉 [I - Interface Segregation](#i---interface-segregation)
     - 👉 [D - Dependency Inversion](#d---dependency-inversion)
-    
+
 ### S - Single Responsibility
 
 - A class should have one and only one reason to change, meaning that a class should have only one job.
-- Example:
-``` C#
-// Before
 
+- **Real-world analogy:** Think of a kitchen appliance like a toaster. Its job is to toast bread, and it does that one job well. Imagine if it was also expected to brew coffee—it would likely do both poorly. The same applies to classes in programming.
+
+- **Example:**
+``` C#
 // Player.cs
 public class Player : Monobehaviour
 {
@@ -51,7 +53,10 @@ public class PlayerAnimation : Monobehaviour
 ### O - Open Close
 
 - Objects or entities should be open for extension but closed for modification.
-- Example: 
+
+- **Real-world analogy:** Consider a plug-in system like a browser. You can add extensions (new features) without modifying the browser's core code.
+
+- **Example:**
 ``` C#
 // Before
 
@@ -117,7 +122,10 @@ public class AreaCalculator
 ### L - Liskov Substitution
 
 - Every subclass or derived class should be substitutable for their base or parent class.
-- Example:
+
+- **Real-world analogy:** A square is a type of rectangle, but it shouldn't be forced to behave like a rectangle in every context.
+
+- **Example:**
 ``` C#
 // Before
 
@@ -198,7 +206,10 @@ public class BirdWatcher
 ### I - Interface Segregation
 
 - A client should never be forced to implement an interface that it doesn’t use, or clients shouldn’t be forced to depend on methods they do not use.
-- Example:
+
+- **Real-world analogy:** Think of a Swiss Army knife. While it's handy, you don't need all its tools for every task. In programming, it's better to provide only the tools needed for the task at hand.
+
+- **Example:**
 ``` C#
 // Before
 
@@ -281,7 +292,10 @@ public class Healer : IMovable, IHealable
 ### D - Dependency Inversion
 
 - Entities must depend on abstractions, not on concretions. It states that the high-level module must not depend on the low-level module, but they should depend on abstractions.
-- Example:
+
+- **Real-world analogy:** Instead of directly calling a specific brand of coffee maker in your code, use an interface like ICoffeeMaker. This way, you can swap out different coffee makers without changing the rest of your code.
+
+- **Example:**
 ``` C#
 // Before
 
