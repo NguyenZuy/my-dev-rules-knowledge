@@ -1,6 +1,6 @@
 # Unity C# Naming
 
-### Variables
+## Variables
 - **Public:** Lowercase first letter, no underscores
   - Example: `public float speed;`
 - **Private:** Starts with an underscore
@@ -10,39 +10,39 @@
 - **Getter, Setter:** Upcase first letter
   - Exampel: `public float Speed{ get{ return speed; } set{ speed = value; }}`
 
-### Image
+## Image
 - Starts with img_, lowercase first letter
   - Example: `Image avatarImg;`
 
-### Sprite
+## Sprite
 - Starts with spr_, lowercase first letter
   - Example: `Sprite avatarSprite;`
 
-### TextMeshProUGUI, TextMeshPro
+## TextMeshProUGUI, TextMeshPro
 - Starts with txt_, lowercase first letter
   - Example: `TextMeshProUGUI nameTxt;`
 
-### Button
+## Button
 - Starts with btn_, lowercase first letter
   - Example: `Button submitBtn;`
 
-### Input Field
+## Input Field
 - Starts with ip_, lowercase first letter
   - Example: `TMP_InputField nameIp;`
 
-### GameObject
+## GameObject
 - Starts with obj_, lowercase first letter
   - Example: `GameObject playerObj;`
 
-### ScriptableObject
+## ScriptableObject
 - Starts with so_, lowercase first letter
   - Example: `CharacterSO characterSO;`
 
-### Bool
+## Bool
 - Starts with is, uppercase first letter
   - Example: `bool isRunning;`
 
-### Static Variables
+## Static Variables
 - All uppercase with underscores between words
   - Example: `static GameManager GAME_MANAGER;`
 
@@ -81,7 +81,7 @@
     }
     ```
 
-### Sprite
+## Sprite
 - Prefix: function or position,...
 - Suffix: diff size, state,... 
 - Lowercase all character
@@ -103,3 +103,12 @@ bg_sky_01.png
 bg_sky_02.png
 ui_panel_settings.png
 ```
+
+## Subscene
+- Start with `Sub_`
+- Follow snake_case
+- Example: `Sub_Local_Player`
+
+## Elements in Hierarchy
+- **UI element**: Start with `UI_`
+  - Example: `UI_MainView`, `UI_HealthBar`
