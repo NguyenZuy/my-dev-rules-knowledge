@@ -11,6 +11,6 @@
   - 🏆 MeshCollider: 1212.6ms
 - 🔥 generally the fastest and should be used when possible =>  `BoxCollider`
 [Test 2: Collision collider vs calculator logic (without collider)]()
-- Testcase: Spawn 1000 entities and move to random point, check if two entities have interaction
-- Solution 1: Use collider, every entity have a collider and use OnTriggerEnter to check collisitions.
-- Solution 2: Use logic to check collisition between entities.
+  - Testcase: Spawn 1000 entities and move to random point, check if two entities have interaction
+  - Solution 1: Use collider, every entity have a collider and use OnTriggerEnter to check collisitions.
+  - Solution 2: Use logic to check collisition between entities.
