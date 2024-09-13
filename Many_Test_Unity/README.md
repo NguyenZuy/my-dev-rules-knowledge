@@ -9,4 +9,4 @@
   - 🔹 SphereCollider: 1438.4ms
   - 🔹 CapsuleCollider: 1545.6ms
   - 🏆 MeshCollider: 1212.6ms
-- 🔥 `BoxCollider` generally the fastest and should be used when possible.
+- 🔥 generally the fastest and should be used when possible =>  `BoxCollider`
