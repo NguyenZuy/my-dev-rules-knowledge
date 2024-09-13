@@ -1,4 +1,4 @@
-[Test 1: What is best Collider (Fastest & the best in performance)](Testcase1.cs)
+[Test 1: What is best 3D Collider (Fastest & the best in performance)](Testcase1.cs)
 - Testcase 1: Assign `Collider` to gameObjet and move the gameObject (no interaction). This is the average time after try 10 times.
   - 🏆 BoxCollider: 231.4ms
   - 🔹 SphereCollider: 240.2ms
