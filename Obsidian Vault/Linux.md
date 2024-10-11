@@ -1,0 +1,21 @@
+- Error with Unity Editor -> Set to Vulkan.
+- `inxi -Fxz`  or `inxi -Fxxxrz` to view the stats.
+- Work with `screen`:
+	- `screen -ls` to list all screen
+	- `screen -S PID -X quit` to close screen depend PID
+	- `screen` to create new screen 
+- Setup new VPS Unbutu:
+	- Firewall
+- `sudo update-alternatives --config java` to modify default jdk
+- Create the symbolic link:
+	- Create a .sh file and typing into ```
+	  #!/bin/bash 
+	  nohup /opt/smartgit/bin/smartgit.sh > /dev/null 2>&1 &```
+	- `ln -s /opt/smartgit/bin/smartgit_run.sh ~/bin/smartgit` to create link
+	- `chmod +x ~/bin/smartgit` to grant permission 
+	- `export PATH="$HOME/bin:$PATH"`
+	- `source ~/.bashrc`
+- Startup App Manager:
+	- `systemctl list-unit-files --type=service | grep enabled` to view all service in startup
+	- `sudo systemctl disable service_name.service`
+	- `sudo systemctl enable service_name.service`

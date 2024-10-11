@@ -1,0 +1,2 @@
+- Extension "Material Icon Theme" for better explorer.
+- Git for generate .csproj for vs code Unity `https://github.com/Chizaruu/com.tsk.ide.vscode#upm`
