@@ -6,6 +6,7 @@
     "emojiStyle": "native",
     "iconColor": null,
     "recentlyUsedIcons": [
+      "📖",
       "📓"
     ],
     "recentlyUsedIconsSize": 5,
@@ -29,5 +30,6 @@
     "lucideIconPackType": "native",
     "debugMode": false
   },
-  "Unity Graphics Performance.md": "📓"
+  "Unity Graphics Performance.md": "📖",
+  "Note VS Code.md": "📓"
 }
