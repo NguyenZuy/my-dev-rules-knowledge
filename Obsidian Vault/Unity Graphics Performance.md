@@ -53,3 +53,11 @@
 |                                                                                                                                                                                 |                                 setting up instance data is separate from setting up the draw call -> make draw call setup lightweight and efficient -> does a minimal amount of work for each draw call -> reponsibility for this work moves to you (what will render, when,etc...)                                 |
 |                                                             limited by instance data in constant or uniform buffer                                                              |                                                                                                   fewer data for each of instance -> more instances counts with a single draw call (`still limit` but no problem)                                                                                                    |
 |                                                                                                                                                                                 |                                                                                    load all instances if have same value for a given property -> save memory and number of GPU cycle spent duplicating the value of each instance                                                                                    |
+
+# Compare graphic draw methods
+
+| Method                             | Use Case                        | Max Instances | Advantages                                 |
+| ---------------------------------- | ------------------------------- | ------------- | ------------------------------------------ |
+| RenderMeshPrimitives               | Small batches, custom rendering | Unlimited     | Simple GPU instancing with `SV_InstanceID` |
+| DrawMeshInstanced                  | Static objects (deprecated)     | 1023          | Easy to use with transformation matrices   |
+| Graphics.DrawMeshInstancedIndirect | Large-scale rendering           | Unlimited     | High performance, dynamic instance control |

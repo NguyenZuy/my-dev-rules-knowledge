@@ -4,3 +4,6 @@ Use for multiple account with SSH keys
 - `git config --local --list` to view local config of repo
 - `git remote set-url origin git@github.com-nguyenduygamedev:NguyenZuy/tenebrous-recursion.git` for change url to use ssh
 - sometime, cannot clone from the git through ssh because not have permission for key ssh use `chmod 600 ~/.ssh/nguyenduygamedev/id_rsa` 
+- `git restore .` to discard all unstaged changes
+- `git restore --staged <file>` to discard all staged changes
+- `git clean -fd` to discard all file untracked
