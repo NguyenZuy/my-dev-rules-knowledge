@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Note VS Code.md",
+                "file": "Unity Graphics Performance.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Note VS Code"
+              "title": "Unity Graphics Performance"
             }
           },
           {
@@ -41,26 +41,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Note VS Code.md",
+                "file": "Linux.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Note VS Code"
-            }
-          },
-          {
-            "id": "1576ec3598f0af89",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Git.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Git"
+              "title": "Linux"
             }
           },
           {
@@ -81,10 +67,56 @@
             "id": "d3ebc88c16043039",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
+              "type": "markdown",
+              "state": {
+                "file": "Note Unity.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Note Unity"
+            }
+          },
+          {
+            "id": "b7210e6f31ce518b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Linux.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Linux"
+            }
+          },
+          {
+            "id": "dafeebd6fc555a35",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Linux.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Linux"
+            }
+          },
+          {
+            "id": "110d6eca0b7d8100",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Linux Mint.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Linux Mint"
             }
           },
           {
@@ -116,7 +148,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 7
       }
     ],
     "direction": "vertical"
@@ -279,20 +311,22 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "5d073c37595e7c90",
+  "active": "110d6eca0b7d8100",
   "lastOpenFiles": [
-    "Git.md",
+    "My Linux.md",
+    "Linux Mint.md",
+    "C-sharp bit operator.md",
     "Flow Field Pathfinding.md",
     "Java.md",
+    "Best Git Repo for Unity Game Developer.md",
+    "Note Unity.md",
     "Note VS Code.md",
     "Unity Graphics Performance.md",
-    "Note Unity.md",
+    "Git.md",
+    "Untitled.canvas",
     "Pasted image 20241012104201.png",
     "Pasted image 20241012104200.png",
-    "Linux.md",
-    "C-sharp bit operator.md",
     "Untitled 1.canvas",
-    "Untitled.canvas",
     "Morton code.md",
     "Untitled/Untitled.md",
     "Untitled",
