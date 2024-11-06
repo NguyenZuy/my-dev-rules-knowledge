@@ -4,5 +4,5 @@
 
 ### [[1. Basic networking concepts]]
 ### [[2. OSI model]]
-### [[3. TPC-IP model]]
+### [[3. TCP-IP model]]
 ### [[4. Network protocols]]
