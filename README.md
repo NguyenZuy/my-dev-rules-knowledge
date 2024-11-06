@@ -1,5 +1,7 @@
 # Introduce
 
+This document outlines the development rules and best practices to ensure high-quality, maintainable, and efficient code within my projects. It serves as a guide for both new and experienced developers.
+
 # Table of contents
 
 ### [My Dev Tips](./TIps.md)
