@@ -6,6 +6,7 @@
     "emojiStyle": "native",
     "iconColor": null,
     "recentlyUsedIcons": [
+      "LiAArrowDown",
       "📖",
       "📓"
     ],
@@ -33,5 +34,8 @@
   "Unity Graphics Performance.md": "📖",
   "Note VS Code.md": "📓",
   "Git.md": "📖",
-  "Java.md": "📖"
+  "Java.md": "📖",
+  "Docker.md": "📖",
+  "Nakama.md": "📖",
+  "Network Protocol Architecture/- General.md": "📖"
 }
