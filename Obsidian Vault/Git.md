@@ -8,3 +8,18 @@ Use for multiple account with SSH keys
 - `git restore --staged <file>` to discard all staged changes
 - `git clean -fd` to discard all file untracked
 - `git remote -v` to check remote status
+- clone `git clone git@github.com-nguyenduygamedev:NguyenZuy/zuy-workspace.git`
+
+
+
+
+
+
+
+
+
+
+
+
+
+`

@@ -6,9 +6,8 @@
     "emojiStyle": "native",
     "iconColor": null,
     "recentlyUsedIcons": [
-      "LiAArrowDown",
       "📖",
-      "📓"
+      "LiAArrowDown"
     ],
     "recentlyUsedIconsSize": 5,
     "rules": [],
@@ -31,11 +30,5 @@
     "lucideIconPackType": "native",
     "debugMode": false
   },
-  "Unity Graphics Performance.md": "📖",
-  "Note VS Code.md": "📓",
-  "Git.md": "📖",
-  "Java.md": "📖",
-  "Docker.md": "📖",
-  "Nakama.md": "📖",
   "Network Protocol Architecture/- General.md": "📖"
 }

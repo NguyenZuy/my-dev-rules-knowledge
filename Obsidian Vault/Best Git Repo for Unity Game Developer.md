@@ -13,4 +13,7 @@ https://github.com/BepInEx/BepInEx
 #ParticleEffectForUGUI 
 https://github.com/mob-sakai/ParticleEffectForUGUI
 
+#AutoGenerate-csporj 
+https://github.com/Chizaruu/com.tsk.ide.vscode
+
 
