@@ -9,7 +9,8 @@ Use for multiple account with SSH keys
 - `git clean -fd` to discard all file untracked
 - `git remote -v` to check remote status
 - clone `git clone git@github.com-nguyenduygamedev:NguyenZuy/zuy-workspace.git`
-
+- delete branch local `git branch -d <branch-name>` (force delete `-D instead -d`)
+- delete remote branch `git push origin --delete <branch-name>`
 
 
 
