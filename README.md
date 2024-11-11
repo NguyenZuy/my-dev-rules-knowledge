@@ -4,7 +4,7 @@ This document outlines the development rules and best practices to ensure high-q
 
 # Table of contents
 
-### [My Dev Tips](./TIps.md)
+### [My Dev Tips](./Tips.md)
 
 ### [I. Unity Naming Rules](./Unity_Naming.md)
 
