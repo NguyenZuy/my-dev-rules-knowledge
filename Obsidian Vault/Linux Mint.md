@@ -23,7 +23,7 @@
 	- `auto_rename.sh /home/nguyenzuy/Music/ png`
 - Force reboot:
 	  - `hold alt + prt sc + r e i s u b`
-	  - 
+- 
 
 # Run .sh file in anywhere
 ### Option 1: Add the script to the PATH
@@ -49,4 +49,7 @@
   `chmod +x ~/Projects/linux-bash/rename_multiple_files/auto_rename.sh`
 - Now you can run the script using the symlink:
   `auto_rename /home/nguyenzuy/Music/ png
-`
+# Change Directories
+- Go to `cd /path/to/directory`
+- Go home `cd` or `cd ~`
+- Go up one directory  `cd ..`
