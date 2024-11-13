@@ -13,15 +13,44 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Flow Field Pathfinding.md",
+                "file": "Unity/4. Unity & Visual Studio Code.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Flow Field Pathfinding"
+              "title": "4. Unity & Visual Studio Code"
+            }
+          },
+          {
+            "id": "4a4db0ae6aa33dc5",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Visual Studio Code/2. Shortcuts.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "2. Shortcuts"
+            }
+          },
+          {
+            "id": "2d35d6e9ac151ef9",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Docker.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Docker"
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -139,10 +168,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Flow Field Pathfinding.md"
+                "file": "Docker.md"
               },
               "icon": "lucide-list",
-              "title": "Outline of Flow Field Pathfinding"
+              "title": "Outline of Docker"
             }
           }
         ]
@@ -159,36 +188,43 @@
       "canvas:Create new canvas": false,
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
-      "command-palette:Open command palette": false
+      "command-palette:Open command palette": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "a826fce1862ee759",
+  "active": "2d35d6e9ac151ef9",
   "lastOpenFiles": [
-    "Java.md",
-    "Linux Mint.md",
     "Git.md",
+    "Linux Mint.md",
+    "Java.md",
+    "Docker.md",
+    "UniTask.md",
+    "Visual Studio Code/2. Shortcuts.md",
+    "Note VS Code.md",
+    "Visual Studio Code/1. Extensions.md",
+    "Visual Studio Code/* Visual Studio Code.md",
+    "Unity/* Unity.md",
+    "Unity/3. Unity graphics performance.md",
+    "Visual Studio Code",
+    "Unity/4. Unity & Visual Studio Code.md",
+    "Note Unity.md",
+    "Unity/1. Best github repositories worth learning.md",
+    "Unity C-Sharp/2. Delegate.md",
+    "Unity Graphics Performance.md",
     "Best Git Repo for Unity Game Developer.md",
+    "Unity/2. Flow field pathfinding.md",
+    "Flow Field Pathfinding.md",
+    "Unity C-Sharp/* Unity C-Sharp.md",
+    "C-sharp bit operator.md",
+    "Unity C-Sharp/6. Bit operator.md",
+    "Unity C-Sharp/1. Class, Abstract Class, Interface.md",
+    "Unity",
+    "Untitled 1.canvas",
+    "Untitled.canvas",
     "Unity C-Sharp/4. Common Terminology.md",
     "Unity C-Sharp/3. Records.md",
     "Network Protocol Architecture/3. TCP-IP model.md",
-    "Unity C-Sharp/* Unity C-Sharp.md",
-    "Unity C-Sharp/2. Delegate.md",
-    "C-sharp bit operator.md",
-    "Docker.md",
-    "Network Protocol Architecture/4. Network protocols.md",
-    "Unity Graphics Performance.md",
-    "UniTask.md",
-    "Note VS Code.md",
-    "Note Unity.md",
-    "Flow Field Pathfinding.md",
-    "Network Protocol Architecture/* Network Protocol Architecture.md",
-    "Unity C-Sharp/1. Class, Abstract Class, Interface.md",
-    "Unity C-Sharp/5. Heap Memory - Stack Memory - Static Memory.md",
-    "Network Protocol Architecture/1. Basic networking concepts.md",
     "Unity C-Sharp",
-    "Unity Extenssion",
-    "My Linux.md",
-    "Nakama.md",
-    "Network Protocol Architecture/2. OSI model.md"
+    "Unity Extenssion"
   ]
 }

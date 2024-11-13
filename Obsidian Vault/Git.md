@@ -1,4 +1,4 @@
-Use for multiple account with SSH keys
+Some of these common useful for multiple account with SSH keys
 - https://gist.github.com/jexchan/2351996
 - `git config --list` for view cur config
 - `git config --local --list` to view local config of repo

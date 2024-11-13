@@ -1,5 +1,0 @@
-- Extension "Material Icon Theme" for better explorer.
-- Git for generate .csproj for vs code Unity `https://github.com/Chizaruu/com.tsk.ide.vscode#upm`
-- `Ctrl + K + S` to open Keyboard Shortcut
-- `Ctrl + Shift + -` to go forward
-- `Ctrl + Alt + -` to go back
