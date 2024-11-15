@@ -13,3 +13,5 @@
 ### [[5. Heap Memory - Stack Memory - Static Memory]]
 
 ### [[6. Bit operator]]
+
+### [[7.  Casting operator 'as' and '()']]
