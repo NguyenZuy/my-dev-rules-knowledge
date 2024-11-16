@@ -14,4 +14,4 @@
 
 ### [[6. Bit operator]]
 
-### [[7.  Casting operator 'as' and '()']]
+### [[7. Casting operator 'as' and '()']]
