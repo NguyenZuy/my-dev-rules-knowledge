@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Unity C-Sharp/8. Variables, Properties and Fields.md",
+                "file": "Unity/1. Best github repositories worth learning.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "8. Variables, Properties and Fields"
+              "title": "1. Best github repositories worth learning"
             }
           }
         ],
@@ -154,10 +154,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Unity C-Sharp/8. Variables, Properties and Fields.md"
+                "file": "Unity/1. Best github repositories worth learning.md"
               },
               "icon": "lucide-list",
-              "title": "Outline of 8. Variables, Properties and Fields"
+              "title": "Outline of 1. Best github repositories worth learning"
             }
           }
         ]
@@ -180,33 +180,33 @@
   },
   "active": "d35c00ea4a9d39ae",
   "lastOpenFiles": [
+    "Unity/3. Unity graphics performance.md",
+    "Unity/2. Flow field pathfinding.md",
+    "Unity/4. Unity & Visual Studio Code.md",
     "Unity C-Sharp/* Unity C-Sharp.md",
-    "Unity C-Sharp/8. Variables, Properties and Fields.md",
-    "Unity C-Sharp/3. Records.md",
+    "Unity C-Sharp/1. Class, Abstract Class, Interface.md",
     "Unity C-Sharp/2. Delegate.md",
+    "Unity C-Sharp/3. Records.md",
     "Unity C-Sharp/4. Common Terminology.md",
     "Unity C-Sharp/5. Heap Memory - Stack Memory - Static Memory.md",
-    "Unity C-Sharp/7. Casting operator 'as' and '()'.md",
     "Unity C-Sharp/6. Bit operator.md",
-    "Linux Mint.md",
-    "Git.md",
-    "Unity C-Sharp/1. Class, Abstract Class, Interface.md",
-    "Unity/4. Unity & Visual Studio Code.md",
+    "Unity C-Sharp/7. Casting operator 'as' and '()'.md",
+    "Unity C-Sharp/8. Variables, Properties and Fields.md",
+    "Visual Studio Code/* Visual Studio Code.md",
+    "Visual Studio Code/1. Extensions.md",
     "Visual Studio Code/2. Shortcuts.md",
-    "Network Protocol Architecture/* Network Protocol Architecture.md",
     "Docker.md",
+    "Git.md",
+    "Linux Mint.md",
     "Java.md",
+    "Network Protocol Architecture/* Network Protocol Architecture.md",
     "UniTask.md",
     "Note VS Code.md",
-    "Visual Studio Code/1. Extensions.md",
-    "Visual Studio Code/* Visual Studio Code.md",
     "Unity/* Unity.md",
-    "Unity/3. Unity graphics performance.md",
     "Visual Studio Code",
     "Note Unity.md",
     "Unity/1. Best github repositories worth learning.md",
     "Unity Graphics Performance.md",
-    "Best Git Repo for Unity Game Developer.md",
     "Unity",
     "Untitled 1.canvas",
     "Untitled.canvas",
