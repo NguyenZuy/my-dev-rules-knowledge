@@ -11,8 +11,7 @@ Some of these common useful for multiple account with SSH keys
 - clone `git clone git@github.com-nguyenduygamedev:NguyenZuy/zuy-workspace.git`
 - delete branch local `git branch -d <branch-name>` (force delete `-D instead -d`)
 - delete remote branch `git push origin --delete <branch-name>`
-
-
+- check branch remote `git branch -r`
 
 
 

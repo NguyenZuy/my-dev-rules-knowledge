@@ -8,3 +8,5 @@
 	- By image name: `sudo docker ps -s --filter "ancestor=<image-name>"`
 - Stop: `sudo docker stop <name-or-id>`
 - Remove: `sudo docker rm <name-or-id>`
+- Stop all containers: `sudo docker stop $(sudo docker ps -q)`
+- Stop and remove exsiting containers :`sudo docker-compose down --remove-orphans`
