@@ -1,5 +1,17 @@
 # Unity C# Naming
 
+## Partial Class Script Name
+- Root class: Similar to normal class
+- Partial class: `<root-class-name>.<partial-class-name>.cs`
+  - Example:
+  ``` C#
+  // GameManager.cs
+  public partial GameManager : BaseSingleton{}
+
+  // AudioManager.cs
+  public partial AudioManager{}
+  ```
+
 ## Variables
 - **Public:** Lowercase first letter, no underscores
   - Example: `public float speed;`
