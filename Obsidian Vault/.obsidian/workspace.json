@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Ahihi.md",
+                "file": "Network Protocol Architecture/- Network Protocol Architecture.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Ahihi"
+              "title": "- Network Protocol Architecture"
             }
           }
         ],
@@ -154,10 +154,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Ahihi.md"
+                "file": "Network Protocol Architecture/- Network Protocol Architecture.md"
               },
               "icon": "lucide-list",
-              "title": "Outline of Ahihi"
+              "title": "Outline of - Network Protocol Architecture"
             }
           },
           {
@@ -191,8 +191,11 @@
   },
   "active": "8777d2a82ff2b526",
   "lastOpenFiles": [
-    "Unity C-Sharp/6. Bit operator.md",
+    "Visual Studio Code/- Visual Studio Code.md",
+    "Unity C-Sharp/- Unity C-Sharp.md",
+    "Unity/- Unity.md",
     "Ahihi.md",
+    "Unity C-Sharp/6. Bit operator.md",
     "Unity C-Sharp/1. Class, Abstract Class, Interface.md",
     "Unity C-Sharp/5. Heap Memory - Stack Memory - Static Memory.md",
     "Unity C-Sharp/4. Common Terminology.md",
@@ -206,7 +209,6 @@
     "Docker.md",
     "Visual Studio Code/2. Shortcuts.md",
     "Visual Studio Code/1. Extensions.md",
-    "Visual Studio Code/* Visual Studio Code.md",
     "Unity C-Sharp/8. Variables, Properties and Fields.md",
     "Unity C-Sharp/2. Delegate.md",
     "Unity C-Sharp/9. Interface features.md",
@@ -214,8 +216,6 @@
     "Unity/3. Unity graphics performance.md",
     "Unity C-Sharp/7. Casting operator 'as' and '()'.md",
     "Unity/6. Nakama.md",
-    "Unity C-Sharp/* Unity C-Sharp.md",
-    "Unity/* Unity.md",
     "Pasted image 20241118221528.png",
     "Unity/1. Best github repositories worth learning.md",
     "Unity/2. Flow field pathfinding.md",
