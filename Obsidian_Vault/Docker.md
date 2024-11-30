@@ -1,6 +1,9 @@
 ### Image
 - List all local Images: `sudo docker images`
 - Remove local image: `sudo docker rmi <name-or-id>`
+- Delete all local images:
+	  - Remove all stopped containers: `docker container prune -f`
+	  - Force remove all local images: `sudo docker rmi $(sudo docker images -aq) -f`
 ### Container
 - List container:
 	- Running: `sudo docker ps`

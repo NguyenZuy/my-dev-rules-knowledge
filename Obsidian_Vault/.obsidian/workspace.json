@@ -41,12 +41,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "English/- English.md",
+                "file": "Docker.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "- English"
+              "title": "Docker"
             }
           }
         ],
@@ -168,10 +168,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "English/- English.md"
+                "file": "Docker.md"
               },
               "icon": "lucide-list",
-              "title": "Outline of - English"
+              "title": "Outline of Docker"
             }
           },
           {
@@ -205,8 +205,8 @@
   },
   "active": "eafc088c07b41c07",
   "lastOpenFiles": [
-    "Linux Mint.md",
     "English/- English.md",
+    "Linux Mint.md",
     "Untitled",
     "English",
     "Obsidian.md",
