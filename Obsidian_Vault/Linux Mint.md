@@ -23,7 +23,8 @@
 	- `auto_rename.sh /home/nguyenzuy/Music/ png`
 - Force reboot:
 	  - `hold alt + prt sc + r e i s u b`
-- 
+- Find ip: 
+	- `ip a`
 
 # Run .sh file in anywhere
 ### Option 1: Add the script to the PATH

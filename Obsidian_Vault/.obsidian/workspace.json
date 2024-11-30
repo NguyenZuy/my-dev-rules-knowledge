@@ -41,12 +41,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Obsidian.md",
+                "file": "English/- English.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Obsidian"
+              "title": "- English"
             }
           }
         ],
@@ -168,10 +168,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Obsidian.md"
+                "file": "English/- English.md"
               },
               "icon": "lucide-list",
-              "title": "Outline of Obsidian"
+              "title": "Outline of - English"
             }
           },
           {
@@ -205,8 +205,12 @@
   },
   "active": "eafc088c07b41c07",
   "lastOpenFiles": [
-    "Ahihi.md",
+    "Linux Mint.md",
+    "English/- English.md",
+    "Untitled",
+    "English",
     "Obsidian.md",
+    "Ahihi.md",
     "Untitled.md",
     "Git.md",
     "Network Protocol Architecture/- Network Protocol Architecture.md",
@@ -229,9 +233,7 @@
     "Unity C-Sharp/8. Variables, Properties and Fields.md",
     "Unity C-Sharp/2. Delegate.md",
     "Unity C-Sharp/9. Interface features.md",
-    "Linux Mint.md",
     "Unity/3. Unity graphics performance.md",
-    "Unity C-Sharp/7. Casting operator 'as' and '()'.md",
     "Pasted image 20241118221528.png",
     "Visual Studio Code",
     "Unity",
