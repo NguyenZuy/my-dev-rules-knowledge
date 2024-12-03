@@ -1,6 +1,6 @@
-# Development Rules & Best Practices
+# 📣 Welcome to **My Develop Rules & Knowledge**
 
-Welcome to the Development Rules & Best Practices guide! This document is designed to help ensure the development of high-quality, maintainable, and efficient code across my projects. Whether you are a new developer or a seasoned professional, this guide serves as a valuable resource for consistent and robust coding practices.
+Welcome to my personal collection of development guidelines, best practices, and insights. This repository serves as a comprehensive reference to help ensure consistent, efficient, and maintainable code across my projects, with a focus on Unity development. Whether you are new to the field or an experienced developer, these rules and principles can help you streamline your workflow and produce high-quality code.
 
 -------------------------------
 
@@ -29,6 +29,8 @@ Welcome to the Development Rules & Best Practices guide! This document is design
 
 -------------------------------
 
-# 🎯 Purpose
+# 🚀 Purpose
 
-This guide aims to create a unified standard across all my projects, making collaboration seamless and codebases easier to understand. By following these rules and best practices, I ensure our code remains efficient and maintainable over time.
+This guide aims to standardize and optimize how I develop and maintain projects, with an emphasis on Unity development. By following these principles, I ensure that my projects remain easy to manage, extend, and scale over time.
+
+I hope these rules help you adopt efficient, clean, and sustainable practices that can improve your workflow and overall project quality.

@@ -17,7 +17,7 @@ Some of these common useful for multiple account with SSH keys
 	- merge child branch into main `git merge nakama`
 	- clean local `git branch -d nakama`
 	- clean remote `git push origin --delete nakama`
-	
+- undo commited `git reset --soft HEAD~1`
 
 #### Different between `git push` and `git push origin....`
 - `git push`: push changes from current branch to its corresponding upstream branch
