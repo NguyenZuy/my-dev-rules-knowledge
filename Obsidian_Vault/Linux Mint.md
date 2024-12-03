@@ -25,6 +25,8 @@
 	  - `hold alt + prt sc + r e i s u b`
 - Find ip: 
 	- `ip a`
+- Set the default file manager (via Terminal) - Ex: Open file container in Unity
+	- `xdg-mime default thunar.desktop inode/directory application/x-gnome-saved-search`
 
 # Run .sh file in anywhere
 ### Option 1: Add the script to the PATH

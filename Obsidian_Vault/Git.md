@@ -12,10 +12,16 @@ Some of these common useful for multiple account with SSH keys
 - delete branch local `git branch -d <branch-name>` (force delete `-D instead -d`)
 - delete remote branch `git push origin --delete <branch-name>`
 - check branch remote `git branch -r`
+- merge child branch to main branch
+	- checkout main `git checkout main`
+	- merge child branch into main `git merge nakama`
+	- clean local `git branch -d nakama`
+	- clean remote `git push origin --delete nakama`
+	
 
-
-
-
+#### Different between `git push` and `git push origin....`
+- `git push`: push changes from current branch to its corresponding upstream branch
+- `git push origin <remote-branch-name>`: Explicitly specifying remote and branch
 
 
 
