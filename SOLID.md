@@ -1,4 +1,4 @@
-# SOLID Principles in Object-Oriented Programming
+# 🚀 SOLID Principles in Object-Oriented Programming
 
 - SOLID is an acronym for the first five OOP principles designed to make software designs more understandable, flexible, and maintainable.
 
@@ -9,7 +9,7 @@
     - 👉 [I - Interface Segregation](#i---interface-segregation)
     - 👉 [D - Dependency Inversion](#d---dependency-inversion)
 
-### S - Single Responsibility
+### 📜 S - Single Responsibility
 
 - A class should have one and only one reason to change, meaning that a class should have only one job.
 
@@ -52,7 +52,7 @@ public class PlayerAnimation : Monobehaviour
 }
 ```
 
-### O - Open Close
+### 🔒 O - Open Close
 
 - Objects or entities should be open for extension but closed for modification.
 
@@ -121,7 +121,7 @@ public class AreaCalculator
 }
 ```
 
-### L - Liskov Substitution
+### 🔄 L - Liskov Substitution
 
 - Every subclass or derived class should be substitutable for their base or parent class.
 
@@ -205,7 +205,7 @@ public class BirdWatcher
 
 ```
 
-### I - Interface Segregation
+### 🔧 I - Interface Segregation
 
 - A client should never be forced to implement an interface that it doesn’t use, or clients shouldn’t be forced to depend on methods they do not use.
 
@@ -291,7 +291,7 @@ public class Healer : IMovable, IHealable
 
 ```
 
-### D - Dependency Inversion
+### 🔄 D - Dependency Inversion
 
 - Entities must depend on abstractions, not on concretions. It states that the high-level module must not depend on the low-level module, but they should depend on abstractions.
 

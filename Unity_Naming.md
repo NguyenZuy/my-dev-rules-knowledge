@@ -1,6 +1,6 @@
-# Unity C# Naming
+# ✨ Unity C# Naming ✨
 
-## Partial Class Script Name
+## 📜 Partial Class Script Name 
 - Root class: Similar to normal class
 - Partial class: `<root-class-name>.<partial-class-name>.cs`
   - Example:
@@ -12,7 +12,7 @@
   public partial AudioManager{}
   ```
 
-## Variables
+## 🔑 Variables
 - **Public:** Lowercase first letter, no underscores
   - Example: `public float speed;`
 - **Private:** Starts with an underscore
@@ -22,68 +22,71 @@
 - **Getter, Setter:** Upcase first letter
   - Exampel: `public float Speed{ get{ return speed; } set{ speed = value; }}`
 
-## Image
-- Starts with img_, lowercase first letter
+## 🎨 Specific Variable Types
+
+### Image
+- End with Img_, lowercase first letter
   - Example: `Image avatarImg;`
 
-## Sprite
-- Starts with spr_, lowercase first letter
+### Sprite
+- End with Sprite, lowercase first letter
   - Example: `Sprite avatarSprite;`
 
-## TextMeshProUGUI, TextMeshPro
-- Starts with txt_, lowercase first letter
+### TextMeshProUGUI, TextMeshPro
+- End with Txt, lowercase first letter
   - Example: `TextMeshProUGUI nameTxt;`
 
-## Button
-- Starts with btn_, lowercase first letter
+### Button
+- End with Btn_, lowercase first letter
   - Example: `Button submitBtn;`
 
-## Input Field
-- Starts with ip_, lowercase first letter
+### Input Field
+- End with Ip, lowercase first letter
   - Example: `TMP_InputField nameIp;`
 
-## GameObject
-- Starts with obj_, lowercase first letter
+### GameObject
+- End with Obj, lowercase first letter
   - Example: `GameObject playerObj;`
 
-## ScriptableObject
-- Starts with so_, lowercase first letter
+### ScriptableObject
+- End with SO, lowercase first letter
   - Example: `CharacterSO characterSO;`
 
-## Bool
+### Bool
 - Starts with is, uppercase first letter
   - Example: `bool isRunning;`
 
-## Static Variables
+
+## ⚡ Static Variables
 - All uppercase with underscores between words
   - Example: `static GameManager GAME_MANAGER;`
 
-## Functions
+## 🛠️ Functions
 - Uppercase first letter
 - Event handling functions start with `OnClick`
 
-## Classes
+## 🏫 Classes
 - Uppercase first letter
 - Use `Manager` suffix for manager classes
 - Use `Util` suffix for utility classes
 
-## Namespaces
+## 🌐 Namespaces
 - PascalCase
   - Example: `QWorld.Utils`
 
-## Abstract Classes
+## 💡 Abstract Classes
 - Start with `Abstract`
   - Example: `AbstractCharacter`
 
-## Interfaces
+## 🤖 Interfaces
 - Start with `I`
   - Example: `ICharacter`
 
-## Scriptable Objects
+## 📁 Scriptable Objects
 - Ends with `SO`
   - Example: `CharacterMoveSO`
 
-## Enums
+## 🎚️ Enums
 - Enum names are lowercase
 - Enum values are uppercase with underscores between words
   - Example:
@@ -93,7 +96,7 @@
     }
     ```
 
-## Sprite
+## 🖼️ Sprite
 - Prefix: function or position,...
 - Suffix: diff size, state,... 
 - Lowercase all character
@@ -116,11 +119,11 @@ bg_sky_02.png
 ui_panel_settings.png
 ```
 
-## Subscene
+## 🗺️ Subscene
 - Start with `Sub_`
 - Follow snake_case
 - Example: `Sub_Local_Player`
 
-## Elements in Hierarchy
+<!-- ## 🖥️ Elements in Hierarchy
 - **UI element**: Start with `UI_`
-  - Example: `UI_MainView`, `UI_HealthBar`
+  - Example: `UI_MainView`, `UI_HealthBar` -->
