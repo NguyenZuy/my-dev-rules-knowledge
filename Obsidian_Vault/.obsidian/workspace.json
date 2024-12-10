@@ -11,10 +11,14 @@
             "id": "e6fa6a2c59a6e8b8",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
+              "type": "markdown",
+              "state": {
+                "file": "Huyet ap.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Huyet ap"
             }
           },
           {
@@ -148,9 +152,11 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {},
+              "state": {
+                "file": "Huyet ap.md"
+              },
               "icon": "lucide-list",
-              "title": "Outline"
+              "title": "Outline of Huyet ap"
             }
           },
           {
@@ -184,12 +190,12 @@
   },
   "active": "e6fa6a2c59a6e8b8",
   "lastOpenFiles": [
+    "Git.md",
     "Huyet ap.md",
     "Unity/- Unity.md",
     "Unity/1. Best github repositories worth learning for Unity.md",
     "Unity/4. Unity & Visual Studio Code.md",
     "Visual Studio Code/- Visual Studio Code.md",
-    "Git.md",
     "Unity/7. Custom package.md",
     "Unity/6. Nakama.md",
     "Unity C-Sharp/6. Bit operator.md",

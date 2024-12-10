@@ -23,7 +23,9 @@ Some of these common useful for multiple account with SSH keys
 - `git push`: push changes from current branch to its corresponding upstream branch
 - `git push origin <remote-branch-name>`: Explicitly specifying remote and branch
 
-
+### When init new project and add remote from the github
+- `git checkout -b main origin/main`
+- 
 
 
 `
