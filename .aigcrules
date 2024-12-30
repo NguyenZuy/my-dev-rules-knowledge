@@ -1,18 +1,25 @@
-This is a monorepo project.
-The repository contains multiple documents and modules, organized as follows:
+# This is a monorepo project.
+# The repository contains multiple documents and modules, organized as follows:
+#
+# - DOTS.md: Guidelines for DOTS (Data-Oriented Technology Stack).
+# - Many_Test_Unity/: Unit testing strategies for Unity projects.
+# - SOLID.md: Documentation on SOLID principles in software design.
+# - Unity_Naming.md: Unity naming conventions and best practices.
+# - Obsidian_Vault/: Vault containing knowledge-based documentation.
+# - Tips.md: General tips and best practices.
+# - Unity_Project_Structure.md: A guide for structuring Unity projects.
+# - UI_Toolkit_Uss_Naming.md: Naming conventions for Unity UI Toolkit.
 
-    DOTS.md: Guidelines for DOTS (Data-Oriented Technology Stack).
-    Many_Test_Unity/: Unit testing strategies for Unity projects.
-    SOLID.md: Documentation on SOLID principles in software design.
-    Unity_Naming.md: Unity naming conventions and best practices.
-    Obsidian_Vault/: Vault containing knowledge-based documentation.
-    Tips.md: General tips and best practices.
-    Unity_Project_Structure.md: A guide for structuring Unity projects.
-    UI_Toolkit_Uss_Naming.md: Naming conventions for Unity UI Toolkit.
-
+# Rules for Commit Messages:
 - Always include the file or section name as the scope of the commit.
-Example: [SOLID.md] Improve explanation of Interface Segregation Principle
-- The title message should shortest if necessary and detail in descrice message
+  Example: [SOLID.md] Improve explanation of Interface Segregation Principle
 
+- Keep the title message concise, and provide detailed information in the description.
+  Example:
+    Title: [Obsidian_Vault]: This is a test title message
+    Description: Updated the knowledge documentation in the Obsidian Vault folder to include new references.
 
-Example: Title Message "[Obsidian_Vault]: This is test title message"
+# Additional Context for the AI:
+- This repository uses structured naming conventions for Unity projects.
+- Highlight performance impacts for database-related changes when relevant.
+
