@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Linux Mint.md",
+                "file": "Java.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Linux Mint"
+              "title": "Java"
             }
           }
         ],
@@ -140,10 +140,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Linux Mint.md"
+                "file": "Java.md"
               },
               "icon": "lucide-list",
-              "title": "Outline of Linux Mint"
+              "title": "Outline of Java"
             }
           },
           {
@@ -177,6 +177,9 @@
   },
   "active": "b31fad9a4a3873a8",
   "lastOpenFiles": [
+    "Huyet ap.md",
+    "Java.md",
+    "Linux Mint.md",
     "Obsidian.md",
     "Unity C-Sharp/9. Interface features.md",
     "Unity C-Sharp/1. Class, Abstract Class, Interface.md",
@@ -197,12 +200,9 @@
     "Unity/6. Nakama.md",
     "Unity/7. Custom package.md",
     "Unity/8.  Built-in Render Pipeline - URP - HDRP.md",
-    "Huyet ap.md",
     "Docker.md",
     "Git.md",
     "Go.md",
-    "Visual Studio Code/- Visual Studio Code.md",
-    "Databases.md",
     "Untitled",
     "English",
     "Untitled.canvas",
