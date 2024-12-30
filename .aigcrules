@@ -1,0 +1,15 @@
+This is a monorepo project.
+The repository contains multiple documents and modules, organized as follows:
+
+    DOTS.md: Guidelines for DOTS (Data-Oriented Technology Stack).
+    Many_Test_Unity/: Unit testing strategies for Unity projects.
+    SOLID.md: Documentation on SOLID principles in software design.
+    Unity_Naming.md: Unity naming conventions and best practices.
+    Obsidian_Vault/: Vault containing knowledge-based documentation.
+    Tips.md: General tips and best practices.
+    Unity_Project_Structure.md: A guide for structuring Unity projects.
+    UI_Toolkit_Uss_Naming.md: Naming conventions for Unity UI Toolkit.
+
+- Always include the file or section name as the scope of the commit.
+Example: [SOLID.md] Improve explanation of Interface Segregation Principle
+- The title message should shortest if necessary and detail in descrice message
