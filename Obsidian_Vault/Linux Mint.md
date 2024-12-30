@@ -27,7 +27,8 @@
 	- `ip a`
 - Set the default file manager (via Terminal) - Ex: Open file container in Unity
 	- `xdg-mime default thunar.desktop inode/directory application/x-gnome-saved-search`
-
+- Record Screen: 
+		`simplescreenrecorder`
 # Run .sh file in anywhere
 ### Option 1: Add the script to the PATH
 - **Move or copy the script to `/usr/local/bin`** (a common directory in `$PATH`):
