@@ -1,1 +1,1 @@
-`silent treatment`: chiến tranh lạnh
+`silent treatment`: chiến tranh lạnh trong một mối quan hệ vợ chồng/người yêu
