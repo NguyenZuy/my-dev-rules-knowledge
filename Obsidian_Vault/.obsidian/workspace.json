@@ -4,39 +4,24 @@
     "type": "split",
     "children": [
       {
-        "id": "f9442555a3e832c6",
+        "id": "bc315a62de139c8c",
         "type": "tabs",
         "children": [
           {
-            "id": "b31fad9a4a3873a8",
+            "id": "15cb6b6ebd0ccd46",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Linux Mint.md",
+                "file": "AIGC - CMAI.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Linux Mint"
-            }
-          },
-          {
-            "id": "3c7e5713de42c6a8",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Test.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Test"
+              "title": "AIGC - CMAI"
             }
           }
         ],
-        "currentTab": 1,
         "stacked": true
       }
     ],
@@ -155,10 +140,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Test.md"
+                "file": "AIGC - CMAI.md"
               },
               "icon": "lucide-list",
-              "title": "Outline of Test"
+              "title": "Outline of AIGC - CMAI"
             }
           },
           {
@@ -190,15 +175,27 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "3c7e5713de42c6a8",
+  "active": "15cb6b6ebd0ccd46",
   "lastOpenFiles": [
     "Linux Mint.md",
-    "Test.md",
+    "AIGC - CMAI.md",
     "Obsidian.md",
+    "Git.md",
+    "Test.md",
+    "Go.md",
+    "English/- English.md",
+    "Network Protocol Architecture/- Network Protocol Architecture.md",
+    "Network Protocol Architecture/1. Basic networking concepts.md",
+    "Network Protocol Architecture/2. OSI model.md",
+    "Network Protocol Architecture/3. TCP-IP model.md",
+    "Network Protocol Architecture/4. Network protocols.md",
+    "Unity/3. Unity graphics performance.md",
+    "Unity/4. Unity & Visual Studio Code.md",
+    "Unity/6. Nakama.md",
     "Unity/7. Custom package.md",
     "Unity/8.  Built-in Render Pipeline - URP - HDRP.md",
+    "Docker.md",
     "Unity C-Sharp/9. Interface features.md",
-    "Network Protocol Architecture/3. TCP-IP model.md",
     "Java.md",
     "Huyet ap.md",
     "Unity C-Sharp/1. Class, Abstract Class, Interface.md",
@@ -206,18 +203,6 @@
     "Unity C-Sharp/3. Records.md",
     "Unity C-Sharp/4. Common Terminology.md",
     "Unity C-Sharp/5. Heap Memory - Stack Memory - Static Memory.md",
-    "Unity C-Sharp/6. Bit operator.md",
-    "Unity C-Sharp/7. Casting operator 'as' and '()'.md",
-    "Unity C-Sharp/8. Variables, Properties and Fields.md",
-    "English/- English.md",
-    "Unity/- Unity.md",
-    "Unity/1. Best github repositories worth learning for Unity.md",
-    "Unity/2. Flow field pathfinding.md",
-    "Unity/4. Unity & Visual Studio Code.md",
-    "Unity/3. Unity graphics performance.md",
-    "Unity/5. Message Pack.md",
-    "Unity/6. Nakama.md",
-    "Docker.md",
     "Untitled",
     "English",
     "Untitled.canvas",
