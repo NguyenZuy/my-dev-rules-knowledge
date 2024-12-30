@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "AIGC - CMAI.md",
+                "file": "English/- English.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "AIGC - CMAI"
+              "title": "- English"
             }
           }
         ],
@@ -140,10 +140,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "AIGC - CMAI.md"
+                "file": "English/- English.md"
               },
               "icon": "lucide-list",
-              "title": "Outline of AIGC - CMAI"
+              "title": "Outline of - English"
             }
           },
           {
@@ -177,24 +177,25 @@
   },
   "active": "15cb6b6ebd0ccd46",
   "lastOpenFiles": [
-    "Linux Mint.md",
+    "Network Protocol Architecture/2. OSI model.md",
+    "Network Protocol Architecture/3. TCP-IP model.md",
+    "Databases.md",
+    "Go.md",
+    "Docker.md",
     "AIGC - CMAI.md",
+    "Linux Mint.md",
     "Obsidian.md",
     "Git.md",
     "Test.md",
-    "Go.md",
     "English/- English.md",
     "Network Protocol Architecture/- Network Protocol Architecture.md",
     "Network Protocol Architecture/1. Basic networking concepts.md",
-    "Network Protocol Architecture/2. OSI model.md",
-    "Network Protocol Architecture/3. TCP-IP model.md",
     "Network Protocol Architecture/4. Network protocols.md",
     "Unity/3. Unity graphics performance.md",
     "Unity/4. Unity & Visual Studio Code.md",
     "Unity/6. Nakama.md",
     "Unity/7. Custom package.md",
     "Unity/8.  Built-in Render Pipeline - URP - HDRP.md",
-    "Docker.md",
     "Unity C-Sharp/9. Interface features.md",
     "Java.md",
     "Huyet ap.md",
@@ -202,7 +203,6 @@
     "Unity C-Sharp/2. Delegate.md",
     "Unity C-Sharp/3. Records.md",
     "Unity C-Sharp/4. Common Terminology.md",
-    "Unity C-Sharp/5. Heap Memory - Stack Memory - Static Memory.md",
     "Untitled",
     "English",
     "Untitled.canvas",

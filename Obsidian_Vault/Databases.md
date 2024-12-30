@@ -1,4 +1,3 @@
-
 | Feature               | PostgreSQL                                                                                                     | CockroachDB                                                                                                                 |
 | --------------------- | -------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------- |
 | Purpose               | Traditional, feature-rich relational database for single-node or primary-replica deployments.                  | Distributed SQL database designed for horizontal scaling, fault tolerance, and high availability.                           |
