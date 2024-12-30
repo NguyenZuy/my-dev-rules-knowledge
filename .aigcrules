@@ -13,3 +13,6 @@ The repository contains multiple documents and modules, organized as follows:
 - Always include the file or section name as the scope of the commit.
 Example: [SOLID.md] Improve explanation of Interface Segregation Principle
 - The title message should shortest if necessary and detail in descrice message
+
+
+Example: Title Message "[Obsidian_Vault]: This is test title message"
