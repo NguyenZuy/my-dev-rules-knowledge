@@ -4,21 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "bc315a62de139c8c",
+        "id": "ea043e165bcb0688",
         "type": "tabs",
         "children": [
           {
-            "id": "15cb6b6ebd0ccd46",
+            "id": "a694e4e58ecefeff",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "English/- English.md",
+                "file": "Java.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "- English"
+              "title": "Java"
             }
           }
         ],
@@ -140,10 +140,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "English/- English.md"
+                "file": "Java.md"
               },
               "icon": "lucide-list",
-              "title": "Outline of - English"
+              "title": "Outline of Java"
             }
           },
           {
@@ -175,19 +175,23 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "15cb6b6ebd0ccd46",
+  "active": "a694e4e58ecefeff",
   "lastOpenFiles": [
-    "Network Protocol Architecture/2. OSI model.md",
-    "Network Protocol Architecture/3. TCP-IP model.md",
-    "Databases.md",
-    "Go.md",
-    "Docker.md",
-    "AIGC - CMAI.md",
+    "Untitled.md",
+    "Java.md",
+    "IDEAS.md",
     "Linux Mint.md",
-    "Obsidian.md",
     "Git.md",
-    "Test.md",
+    "Network Protocol Architecture/3. TCP-IP model.md",
+    "Unity C-Sharp/8. Variables, Properties and Fields.md",
+    "Go.md",
+    "AIGC - CMAI.md",
     "English/- English.md",
+    "Network Protocol Architecture/2. OSI model.md",
+    "Databases.md",
+    "Docker.md",
+    "Obsidian.md",
+    "Test.md",
     "Network Protocol Architecture/- Network Protocol Architecture.md",
     "Network Protocol Architecture/1. Basic networking concepts.md",
     "Network Protocol Architecture/4. Network protocols.md",
@@ -197,12 +201,8 @@
     "Unity/7. Custom package.md",
     "Unity/8.  Built-in Render Pipeline - URP - HDRP.md",
     "Unity C-Sharp/9. Interface features.md",
-    "Java.md",
     "Huyet ap.md",
     "Unity C-Sharp/1. Class, Abstract Class, Interface.md",
-    "Unity C-Sharp/2. Delegate.md",
-    "Unity C-Sharp/3. Records.md",
-    "Unity C-Sharp/4. Common Terminology.md",
     "Untitled",
     "English",
     "Untitled.canvas",
