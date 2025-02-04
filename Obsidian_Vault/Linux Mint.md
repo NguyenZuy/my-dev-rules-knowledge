@@ -57,3 +57,9 @@
 - Go to `cd /path/to/directory`
 - Go home `cd` or `cd ~`
 - Go up one directory  `cd ..`
+# Thunar File Manager Not Responding
+- Restart the GVFS Deamon
+```
+pkill gvfsd
+pkill gvfsd-metadata
+```

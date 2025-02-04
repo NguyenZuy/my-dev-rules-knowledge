@@ -7,8 +7,6 @@
 
 ### [[3. Records]]
 
-
-
 ### [[4. Common Terminology]]
 
 ### [[5. Heap Memory - Stack Memory - Static Memory]]
@@ -20,3 +18,7 @@
 ### [[8. Variables, Properties and Fields]]
 
 ### [[9. Interface features]]
+
+### [[10. Sorting Algorithms]]
+
+### [[11. Search Algorithms]]
