@@ -1,0 +1,176 @@
+{
+  "main": {
+    "id": "2f1cec87d78e76e5",
+    "type": "split",
+    "children": [
+      {
+        "id": "ca0bf77ca005f51f",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "bfbaf1efba0c51f4",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Obsidian_Vault/Unity/8. Built-in Render Pipeline - URP - HDRP.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "8. Built-in Render Pipeline - URP - HDRP"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "59a5dfc984558135",
+    "type": "split",
+    "children": [
+      {
+        "id": "63e52438a086189e",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "1cfc7331564805fc",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "04e5b0329c51e818",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "93604009cf61190a",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "1ddaadae7fb51813",
+    "type": "split",
+    "children": [
+      {
+        "id": "a4f095d6aa3d0fcd",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "ae52142cceaf6b23",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Obsidian_Vault/Unity/8. Built-in Render Pipeline - URP - HDRP.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for 8. Built-in Render Pipeline - URP - HDRP"
+            }
+          },
+          {
+            "id": "cf1b6adae9f6d349",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Obsidian_Vault/Unity/8. Built-in Render Pipeline - URP - HDRP.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from 8. Built-in Render Pipeline - URP - HDRP"
+            }
+          },
+          {
+            "id": "50236e4be2d272f1",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "49a1f82fe3a0b2c6",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Obsidian_Vault/Unity/8. Built-in Render Pipeline - URP - HDRP.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of 8. Built-in Render Pipeline - URP - HDRP"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "bfbaf1efba0c51f4",
+  "lastOpenFiles": [
+    "Obsidian_Vault/Unity/- Unity.md",
+    "Obsidian_Vault/Unity/8. Built-in Render Pipeline - URP - HDRP.md"
+  ]
+}

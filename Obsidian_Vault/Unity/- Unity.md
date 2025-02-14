@@ -14,4 +14,4 @@
 
 ### [[7. Custom package]]
 
-### [[8.  Built-in Render Pipeline - URP - HDRP]]
+### [[8. Built-in Render Pipeline - URP - HDRP]]
