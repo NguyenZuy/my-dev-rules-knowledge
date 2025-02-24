@@ -25,7 +25,8 @@ Some of these common useful for multiple account with SSH keys
 
 ### When init new project and add remote from the github
 - `git checkout -b main origin/main`
-- 
 
-
+### GitHub LFS large file
+- Install Git LFS
+- Track Large files `git lfs track "Assets/Firebase/Plugins/x86_64/FirebaseCppApp-12_6_0.bundle"` 
 `
