@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "d8b23cd53525cf89",
+        "id": "d6e1e6e5e5e19374",
         "type": "tabs",
         "children": [
           {
-            "id": "45100984555941bf",
+            "id": "cdf170ff847e850c",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -168,16 +168,23 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "45100984555941bf",
+  "active": "cdf170ff847e850c",
   "lastOpenFiles": [
-    "Obsidian_Vault/Unity/3. Unity graphics performance.md",
+    "Obsidian_Vault/MMO/3. Unity Asset Developent.md",
+    "Obsidian_Vault/MMO/2. Game Developent.md",
+    "Obsidian_Vault/MMO/- Strategy.md",
     "Obsidian_Vault/English/1. Imagine Conversation.md",
+    "Obsidian_Vault/MMO/1. Youtube Creator.md",
+    "Obsidian_Vault/Network Protocol Architecture/1. Basic networking concepts.md",
+    "Obsidian_Vault/Network Protocol Architecture/3. TCP-IP model.md",
+    "Obsidian_Vault/Network Protocol Architecture/2. OSI model.md",
+    "Obsidian_Vault/Network Protocol Architecture/- Network Protocol Architecture.md",
+    "Obsidian_Vault/Network Protocol Architecture/4. Network protocols.md",
+    "Obsidian_Vault/Unity/3. Unity graphics performance.md",
     "Obsidian_Vault/English/- English.md",
     "Obsidian_Vault/Unity/- Unity.md",
-    "Obsidian_Vault/MMO/- Strategy.md",
     "Unity_Naming.md",
     "SOLID.md",
-    "Obsidian_Vault/MMO/1. Youtube Creator.md",
     "Obsidian_Vault/Unity C-Sharp/8. Variables, Properties and Fields.md",
     "Obsidian_Vault/Unity C-Sharp/7. Casting operator 'as' and '()'.md",
     "Obsidian_Vault/Unity C-Sharp/6. Bit operator.md",
@@ -189,13 +196,6 @@
     "Obsidian_Vault/Unity/8. Built-in Render Pipeline - URP - HDRP.md",
     "Obsidian_Vault/Unity/1. Best github repositories worth learning for Unity.md",
     "Obsidian_Vault/Unity/2. Flow field pathfinding.md",
-    "Obsidian_Vault/Unity/5. Message Pack.md",
-    "Obsidian_Vault/Unity/4. Unity & Visual Studio Code.md",
-    "Obsidian_Vault/Visual Studio Code/- Visual Studio Code.md",
-    "Obsidian_Vault/Visual Studio Code/1. Extensions.md",
-    "Obsidian_Vault/Visual Studio Code/2. Shortcuts.md",
-    "Obsidian_Vault/Unity C-Sharp/- Unity C-Sharp.md",
-    "Obsidian_Vault/Go.md",
     "Obsidian_Vault/MMO",
     "Untitled 1.canvas",
     "Untitled.canvas"
