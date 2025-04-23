@@ -11,14 +11,21 @@
             "id": "cdf170ff847e850c",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "kanban",
               "state": {
-                "file": "Obsidian_Vault/English/1. Imagine Conversation.md",
-                "mode": "source",
-                "source": false
+                "file": "Obsidian_Vault/ToDo.md",
+                "kanbanViewState": {
+                  "kanban-plugin": "board",
+                  "list-collapse": [
+                    false,
+                    false,
+                    false,
+                    false
+                  ]
+                }
               },
-              "icon": "lucide-file",
-              "title": "1. Imagine Conversation"
+              "icon": "lucide-trello",
+              "title": "ToDo"
             }
           }
         ]
@@ -53,7 +60,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "?.",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -165,37 +172,38 @@
       "canvas:Create new canvas": false,
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
-      "command-palette:Open command palette": false
+      "command-palette:Open command palette": false,
+      "obsidian-kanban:Create new board": false
     }
   },
   "active": "cdf170ff847e850c",
   "lastOpenFiles": [
-    "Obsidian_Vault/MMO/1. Youtube Creator.md",
+    "Obsidian_Vault/Obsidian.md",
+    "Obsidian_Vault/ToDo.md",
     "Obsidian_Vault/English/1. Imagine Conversation.md",
-    "Obsidian_Vault/MMO/3. Unity Asset Developent.md",
-    "Obsidian_Vault/MMO/2. Game Developent.md",
-    "Obsidian_Vault/MMO/- Strategy.md",
-    "Obsidian_Vault/Network Protocol Architecture/1. Basic networking concepts.md",
-    "Obsidian_Vault/Network Protocol Architecture/3. TCP-IP model.md",
-    "Obsidian_Vault/Network Protocol Architecture/2. OSI model.md",
     "Obsidian_Vault/Network Protocol Architecture/- Network Protocol Architecture.md",
-    "Obsidian_Vault/Network Protocol Architecture/4. Network protocols.md",
+    "DOTS.md",
+    "2025-04-19.md",
+    "Obsidian_Vault/Unity/4. Unity & Visual Studio Code.md",
     "Obsidian_Vault/Unity/3. Unity graphics performance.md",
-    "Obsidian_Vault/English/- English.md",
-    "Obsidian_Vault/Unity/- Unity.md",
-    "Unity_Naming.md",
-    "SOLID.md",
-    "Obsidian_Vault/Unity C-Sharp/8. Variables, Properties and Fields.md",
-    "Obsidian_Vault/Unity C-Sharp/7. Casting operator 'as' and '()'.md",
-    "Obsidian_Vault/Unity C-Sharp/6. Bit operator.md",
-    "Obsidian_Vault/Unity C-Sharp/5. Heap Memory - Stack Memory - Static Memory.md",
-    "Obsidian_Vault/Unity C-Sharp/3. Records.md",
-    "Obsidian_Vault/Unity C-Sharp/1. Class, Abstract Class, Interface.md",
-    "Obsidian_Vault/Unity/7. Custom package.md",
-    "Obsidian_Vault/Unity/9. Assembly Definitions.md",
-    "Obsidian_Vault/Unity/8. Built-in Render Pipeline - URP - HDRP.md",
     "Obsidian_Vault/Unity/1. Best github repositories worth learning for Unity.md",
     "Obsidian_Vault/Unity/2. Flow field pathfinding.md",
+    "Obsidian_Vault/Unity/- Unity.md",
+    "Obsidian_Vault/Network Protocol Architecture/4. Network protocols.md",
+    "Obsidian_Vault/Network Protocol Architecture/3. TCP-IP model.md",
+    "Obsidian_Vault/Network Protocol Architecture/2. OSI model.md",
+    "Obsidian_Vault/Network Protocol Architecture/1. Basic networking concepts.md",
+    "Obsidian_Vault/Visual Studio Code/2. Shortcuts.md",
+    "Obsidian_Vault/Visual Studio Code/1. Extensions.md",
+    "Obsidian_Vault/Visual Studio Code/- Visual Studio Code.md",
+    "Obsidian_Vault/Unity C-Sharp/12. Assertion.md",
+    "Obsidian_Vault/Unity C-Sharp/2. Delegate.md",
+    "Obsidian_Vault/Unity C-Sharp/6. Bit operator.md",
+    "Obsidian_Vault/Unity C-Sharp/8. Variables, Properties and Fields.md",
+    "Obsidian_Vault/Unity C-Sharp/9. Interface features.md",
+    "Obsidian_Vault/Unity C-Sharp/10. Sorting Algorithms.md",
+    "Obsidian_Vault/Unity C-Sharp/11. Search Algorithms.md",
+    "Obsidian_Vault/MMO/1. Youtube Creator.md",
     "Obsidian_Vault/MMO",
     "Untitled 1.canvas",
     "Untitled.canvas"
