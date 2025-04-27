@@ -1,8 +1,29 @@
 # 🚀 Directory Structure
 
 ## Unity DOTS
+- Assets/
+	- Project/
+		- Arts/ -- UIs, Sprites, Models, Effects,...
+		- Sounds/ 
+		- Prefabs/
+		- Shaders/
+		- Materials/
+		- ScriptableObjects/
+		- Scripts/
+			- `DOTS/`
+				- Authorings/
+				- Components/
+				- Systems/
+				- Jobs/
+				- Utils/
+					- Helper/ -- Helper class for specific function.
+					- Util/ -- Utility methods use for multiple function
+					- Constant/ -- Constant variable/enum use for DOTS system - non Mono
+			- `Mono/`
+			- `Editor/`
+			- `Hybrid/` -- Use the DOTS script in Mono code
 
-- Asset/
+- Assets/
     - Project/
         - 📦 Art/                    -- Contains all art assets like UI, Sprites, 3D Models, Effects, Textures, Materials, etc.
         - 🎶 Sound/                  -- Contains all audio assets like Music, Sound Effects, etc.

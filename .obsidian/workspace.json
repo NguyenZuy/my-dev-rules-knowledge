@@ -11,21 +11,14 @@
             "id": "cdf170ff847e850c",
             "type": "leaf",
             "state": {
-              "type": "kanban",
+              "type": "markdown",
               "state": {
-                "file": "Obsidian_Vault/ToDo.md",
-                "kanbanViewState": {
-                  "kanban-plugin": "board",
-                  "list-collapse": [
-                    false,
-                    false,
-                    false,
-                    false
-                  ]
-                }
+                "file": "Unity_Project_Struture.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-trello",
-              "title": "ToDo"
+              "icon": "lucide-file",
+              "title": "Unity_Project_Struture"
             }
           }
         ]
@@ -178,32 +171,32 @@
   },
   "active": "cdf170ff847e850c",
   "lastOpenFiles": [
-    "Obsidian_Vault/Obsidian.md",
-    "Obsidian_Vault/ToDo.md",
-    "Obsidian_Vault/English/1. Imagine Conversation.md",
+    "Untitled.md",
+    "Unity_Project_Struture.md",
+    "Obsidian_Vault/Docker.md",
+    "Obsidian_Vault/Databases.md",
+    "Obsidian_Vault/Network Protocol Architecture/1. Basic networking concepts.md",
+    "Obsidian_Vault/Network Protocol Architecture/2. OSI model.md",
+    "Obsidian_Vault/Network Protocol Architecture/3. TCP-IP model.md",
+    "Obsidian_Vault/Network Protocol Architecture/4. Network protocols.md",
     "Obsidian_Vault/Network Protocol Architecture/- Network Protocol Architecture.md",
+    "Obsidian_Vault/English/1. Imagine Conversation.md",
+    "Obsidian_Vault/MMO/3. Unity Asset Developent.md",
+    "Untitled Kanban.md",
+    "Obsidian_Vault/ToDo.md",
     "DOTS.md",
+    "Obsidian_Vault/MMO/- Strategy.md",
+    "Obsidian_Vault/Obsidian.md",
+    "Obsidian_Vault/Linux Mint.md",
     "2025-04-19.md",
     "Obsidian_Vault/Unity/4. Unity & Visual Studio Code.md",
     "Obsidian_Vault/Unity/3. Unity graphics performance.md",
     "Obsidian_Vault/Unity/1. Best github repositories worth learning for Unity.md",
     "Obsidian_Vault/Unity/2. Flow field pathfinding.md",
     "Obsidian_Vault/Unity/- Unity.md",
-    "Obsidian_Vault/Network Protocol Architecture/4. Network protocols.md",
-    "Obsidian_Vault/Network Protocol Architecture/3. TCP-IP model.md",
-    "Obsidian_Vault/Network Protocol Architecture/2. OSI model.md",
-    "Obsidian_Vault/Network Protocol Architecture/1. Basic networking concepts.md",
     "Obsidian_Vault/Visual Studio Code/2. Shortcuts.md",
     "Obsidian_Vault/Visual Studio Code/1. Extensions.md",
     "Obsidian_Vault/Visual Studio Code/- Visual Studio Code.md",
-    "Obsidian_Vault/Unity C-Sharp/12. Assertion.md",
-    "Obsidian_Vault/Unity C-Sharp/2. Delegate.md",
-    "Obsidian_Vault/Unity C-Sharp/6. Bit operator.md",
-    "Obsidian_Vault/Unity C-Sharp/8. Variables, Properties and Fields.md",
-    "Obsidian_Vault/Unity C-Sharp/9. Interface features.md",
-    "Obsidian_Vault/Unity C-Sharp/10. Sorting Algorithms.md",
-    "Obsidian_Vault/Unity C-Sharp/11. Search Algorithms.md",
-    "Obsidian_Vault/MMO/1. Youtube Creator.md",
     "Obsidian_Vault/MMO",
     "Untitled 1.canvas",
     "Untitled.canvas"
