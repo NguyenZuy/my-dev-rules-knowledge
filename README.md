@@ -6,16 +6,16 @@ Welcome to my personal collection of development guidelines, best practices, and
 
 # 📚 Table of contents
 
-### [My Dev Tips](./Tips.md)
+### [My Dev Tips](TIPS.md)
  - Personal tips and insights to boost development workflow.
 
-### [I. Unity Naming Rules](./Unity_Naming.md)
+### [I. Unity Naming Rules](UNITY%20NAMING.md)
 - Naming conventions for better readability and uniformity across Unity projects.
 
-### [II. Unity Project Structure](./Unity_Project_Struture.md)
+### [II. Unity Project Structure](UNITY%20PROJECT%20STRUCTURE.md)
 - Guidelines for organizing your Unity project in a clean and efficient manner.
 
-### [III. Unity UI Toolkit Uss Naming](./UI_Toolkit_Uss_Naming.md)
+### [III. Unity UI Toolkit Uss Naming](UI%20TOOLKIT%20USS%20NAMING.md)
 - Best practices for naming USS (Unity Style Sheets) to maintain a cohesive UI system.
 
 ### [IV. DOTS](./DOTS.md)
