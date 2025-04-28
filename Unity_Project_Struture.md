@@ -3,9 +3,9 @@
 ## Unity DOTS
 - Assets/
 	- Project/
-		- Arts/ -- UIs, Sprites, Models, Effects,...
-		- Sounds/ 
-		- Prefabs/
+		- `Arts`/ -- UIs, Sprites, Models, Effects,...
+		- `Sounds`/ 
+		- `Prefabs`/
 		- Shaders/
 		- Materials/
 		- ScriptableObjects/
