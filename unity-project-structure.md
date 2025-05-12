@@ -39,24 +39,24 @@
 ## Unity Traditional
 
 	Assets/
-	└── Project/
-	    ├── Arts/
-	    ├── Data/
-	    ├── Materials/
-	    ├── Prefabs/
-	    ├── SO/
-	    ├── Scripts/
-	    │   ├── Constants/
-	    │   ├── Editor/
-	    │   ├── Entities/
-	    │   ├── Managers/
-	    │   ├── SOs/
-	    │   ├── UI/
-	    │   └── Utils/
-	    │       ├── Helper/
-	    │       └── Util/
-	    ├── Shaders/
-	    └── Sounds/
+		└── Project/
+		    ├── Arts/
+		    ├── Data/
+		    ├── Materials/
+		    ├── Prefabs/
+		    ├── SO/
+		    ├── Scripts/
+		    │   ├── Constants/
+		    │   ├── Editor/
+		    │   ├── Entities/
+		    │   ├── Managers/
+		    │   ├── SOs/
+		    │   ├── UI/
+		    │   └── Utils/
+		    │       ├── Helper/
+		    │       └── Util/
+		    ├── Shaders/
+		    └── Sounds/
 
 # 🚀 Assembly Dependencies
 
