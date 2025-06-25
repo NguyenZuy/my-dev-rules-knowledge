@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "OBSIDIAN VAULT/Unity C-Sharp/13. Async Await.md",
+                "file": "OBSIDIAN VAULT/Unity/1. Best github repositories worth learning for Unity.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "13. Async Await"
+              "title": "1. Best github repositories worth learning for Unity"
             }
           }
         ],
@@ -186,8 +186,10 @@
   },
   "active": "de83f56e14f2932c",
   "lastOpenFiles": [
-    "OBSIDIAN VAULT/Unity C-Sharp/- Unity C-Sharp.md",
+    "Resources/LitMotion.pdf",
+    "Resources/TriInspector.md",
     "OBSIDIAN VAULT/Unity C-Sharp/13. Async Await.md",
+    "OBSIDIAN VAULT/Unity C-Sharp/- Unity C-Sharp.md",
     "OBSIDIAN VAULT/Unity C-Sharp/12. Assertion.md",
     "OBSIDIAN VAULT/Unity C-Sharp/5. Heap Memory - Stack Memory - Static Memory.md",
     "OBSIDIAN VAULT/Unity C-Sharp/1. Class, Abstract Class, Interface.md",
@@ -211,8 +213,6 @@
     "ui-toolkit-uss-naming.md",
     "solid-principles.md",
     "README.md",
-    "dots-guide.md",
-    "OBSIDIAN VAULT/ToDo.md",
     "OBSIDIAN VAULT/MMO",
     "Untitled 1.canvas",
     "Untitled.canvas"
