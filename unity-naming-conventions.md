@@ -63,7 +63,7 @@
 
 ## 🛠️ Functions
 - Uppercase first letter
-- Event handling functions start with `OnClick`
+- Event handling functions start with `On + nameFeature + Click`
 
 ## 🏫 Classes
 - Uppercase first letter
