@@ -75,8 +75,8 @@
   - Example: `QWorld.Utils`
 
 ## 💡 Abstract Classes
-- Start with `Abstract`
-  - Example: `AbstractCharacter`
+- Start with `Abstract` or `Base`
+  - Example: `AbstractCharacter` or `BaseCharacter`
 
 ## 🤖 Interfaces
 - Start with `I`
