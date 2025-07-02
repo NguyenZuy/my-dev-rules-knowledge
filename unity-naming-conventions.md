@@ -14,13 +14,16 @@
 
 ## 🔑 Variables
 - **Public:** Lowercase first letter, no underscores
-  - Example: `public float speed;`
+	- Example: `public float speed;`
 - **Private:** Starts with an underscore
-  - Example: `private float _speed;`
+	- Example: `private float _speed;`
 - **Protected:** Starts with m_, uppercase first letter
-  - Example: `protected float m_Speed;`
-- **Getter, Setter:** Upcase first letter
-  - Exampel: `public float Speed{ get{ return speed; } set{ speed = value; }}`
+	- Example: `protected float m_Speed;`
+- **Getter, Setter:** Uppercase first letter
+	- Example: `public float Speed{ get{ return speed; } set{ speed = value; }}`
+
+- But in `Entity Classes`: Uppercase first letter
+	- Example: `public float ID;`
 
 ## 🎨 Specific Variable Types
 
