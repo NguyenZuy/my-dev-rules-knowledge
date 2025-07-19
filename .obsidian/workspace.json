@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Obsidian Vault/Unity/1. Best github repositories worth learning for Unity.md",
+                "file": "OBSIDIAN VAULT/Unity/5. Message Pack.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "1. Best github repositories worth learning for Unity"
+              "title": "5. Message Pack"
             }
           }
         ],
@@ -186,8 +186,15 @@
   },
   "active": "f1640408fcf78308",
   "lastOpenFiles": [
-    "Obsidian Vault/Git.md",
+    "OBSIDIAN VAULT/Unity/4. Unity & Visual Studio Code.md",
+    "OBSIDIAN VAULT/English/1. Imagine Conversation.md",
+    "OBSIDIAN VAULT/ToDo.md",
     "Obsidian Vault/Unity/11. Search Prefixes.md",
+    "Resources/UniTask.md",
+    "solid-principles.md",
+    "unity-naming-conventions.md",
+    "unity-project-structure.md",
+    "Obsidian Vault/Git.md",
     "Obsidian Vault/Unity/- Unity.md",
     "Obsidian Vault/English/0. Plan.md",
     "Obsidian Vault/English/- English.md",
@@ -198,20 +205,13 @@
     "Obsidian Vault/Unity/9. Assembly Definitions.md",
     "Obsidian Vault/Unity C-Sharp/1. Class, Abstract Class, Interface.md",
     "unity-tips.md",
-    "unity-project-structure.md",
-    "unity-naming-conventions.md",
     "ui-toolkit-uss-naming.md",
-    "solid-principles.md",
     "Obsidian Vault/Unity/1. Best github repositories worth learning for Unity.md",
     "Obsidian Vault/Unity/3. Unity graphics performance.md",
     "Obsidian Vault/Unity/4. Unity & Visual Studio Code.md",
     "Obsidian Vault/Unity/10. Server Reconciliation.md",
     "Obsidian Vault/Unity C-Sharp/13. Async Await.md",
     "Obsidian Vault/Unity C-Sharp/12. Assertion.md",
-    "Obsidian Vault/Unity C-Sharp/11. Search Algorithms.md",
-    "Obsidian Vault/Unity C-Sharp/10. Sorting Algorithms.md",
-    "Obsidian Vault/Unity C-Sharp/9. Interface features.md",
-    "Obsidian Vault/Unity C-Sharp/8. Variables, Properties and Fields.md",
     "Resources/LitMotion.pdf",
     "OBSIDIAN VAULT/Unity Test",
     "OBSIDIAN VAULT/MMO",
