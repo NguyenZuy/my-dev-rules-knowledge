@@ -4,21 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "0c00cd4886736d44",
+        "id": "b417e95cef4fa0f0",
         "type": "tabs",
         "children": [
           {
-            "id": "bb7042499725f302",
+            "id": "6811c3ee5950a070",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Linux Mint.md",
+                "file": "Git/7. Commit Naming Conventions.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Linux Mint"
+              "title": "7. Commit Naming Conventions"
             }
           }
         ],
@@ -41,7 +41,8 @@
             "state": {
               "type": "file-explorer",
               "state": {
-                "sortOrder": "alphabetical"
+                "sortOrder": "alphabetical",
+                "autoReveal": false
               },
               "icon": "lucide-folder-closed",
               "title": "Files"
@@ -140,10 +141,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Linux Mint.md"
+                "file": "Git/7. Commit Naming Conventions.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Linux Mint"
+              "title": "Outline of 7. Commit Naming Conventions"
             }
           },
           {
@@ -175,17 +179,27 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "bb7042499725f302",
+  "active": "6811c3ee5950a070",
   "lastOpenFiles": [
+    "Git/1. SSH Configuration.md",
+    "Git/7. Commit Naming Conventions.md",
+    "Git/- Git.md",
+    "Git/6. GitHub LFS.md",
+    "ToDo.md",
+    "Git.md",
+    "Git/5. Advanced Operations.md",
+    "Git/4. Remote Operations.md",
+    "Git/3. Branch Management.md",
+    "Git/2. Basic Commands.md",
+    "Git",
+    "Linux Mint.md",
     "Unity C-Sharp/10. Sorting Algorithms.md",
     "Unity C-Sharp/11. Search Algorithms.md",
     "Unity C-Sharp/- Unity C-Sharp.md",
     "In-app Adverstisment.md",
     "Unity C-Sharp/Untitled.md",
-    "Git.md",
     "Go.md",
     "IDEAS.md",
-    "Linux Mint.md",
     "Java.md",
     "Docker.md",
     "Databases.md",
@@ -194,16 +208,6 @@
     "Network Protocol Architecture/3. TCP-IP model.md",
     "Unity C-Sharp/8. Variables, Properties and Fields.md",
     "AIGC - CMAI.md",
-    "Network Protocol Architecture/2. OSI model.md",
-    "Obsidian.md",
-    "Test.md",
-    "Network Protocol Architecture/1. Basic networking concepts.md",
-    "Network Protocol Architecture/4. Network protocols.md",
-    "Unity/3. Unity graphics performance.md",
-    "Unity/4. Unity & Visual Studio Code.md",
-    "Unity/6. Nakama.md",
-    "Unity/7. Custom package.md",
-    "Untitled",
     "English",
     "Untitled.canvas",
     "Pasted image 20241118221528.png",
