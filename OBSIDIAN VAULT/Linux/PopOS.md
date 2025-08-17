@@ -1,0 +1,1 @@
+Run a app image without terminal parallel: `cursor . & exit`

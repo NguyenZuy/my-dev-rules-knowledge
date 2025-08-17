@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "OBSIDIAN VAULT/Unity/5. Message Pack.md",
+                "file": "OBSIDIAN VAULT/Linux/PopOS.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "5. Message Pack"
+              "title": "PopOS"
             }
           }
         ],
@@ -186,6 +186,10 @@
   },
   "active": "f1640408fcf78308",
   "lastOpenFiles": [
+    "OBSIDIAN VAULT/Linux/Linux Mint.md",
+    "OBSIDIAN VAULT/Linux/PopOS.md",
+    "OBSIDIAN VAULT/Linux",
+    "OBSIDIAN VAULT/Unity/5. Message Pack.md",
     "OBSIDIAN VAULT/Unity/4. Unity & Visual Studio Code.md",
     "OBSIDIAN VAULT/English/1. Imagine Conversation.md",
     "OBSIDIAN VAULT/ToDo.md",
@@ -209,9 +213,6 @@
     "Obsidian Vault/Unity/1. Best github repositories worth learning for Unity.md",
     "Obsidian Vault/Unity/3. Unity graphics performance.md",
     "Obsidian Vault/Unity/4. Unity & Visual Studio Code.md",
-    "Obsidian Vault/Unity/10. Server Reconciliation.md",
-    "Obsidian Vault/Unity C-Sharp/13. Async Await.md",
-    "Obsidian Vault/Unity C-Sharp/12. Assertion.md",
     "Resources/LitMotion.pdf",
     "OBSIDIAN VAULT/Unity Test",
     "OBSIDIAN VAULT/MMO",
