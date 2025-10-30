@@ -20,4 +20,4 @@
 
 ### [[10. Server Reconciliation]]
 
-### [[11. Search Prefixes]]
+### [[11. Texture Compression Format]]
