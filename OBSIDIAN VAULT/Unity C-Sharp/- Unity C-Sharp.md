@@ -25,4 +25,4 @@
 
 ### [[12. Assertion]]
 
-### [[13. Async Await]]
+### [[13. Asynchronous]]
