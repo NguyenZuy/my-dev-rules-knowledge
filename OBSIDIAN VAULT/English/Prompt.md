@@ -1,0 +1,1 @@
+"I'm at the office and just wrote my Daily Stand-up. Please refine this to sound like a professional Global Game Developer. Highlight any grammar points I should notice."
