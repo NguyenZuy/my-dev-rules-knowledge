@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "OBSIDIAN VAULT/English/Stand-up/28-01-2026.md",
+                "file": "OBSIDIAN VAULT/English/Stand-up/30-01-2026.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "28-01-2026"
+              "title": "30-01-2026"
             }
           }
         ]
@@ -166,14 +166,14 @@
       "canvas:Create new canvas": false,
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
-      "command-palette:Open command palette": false,
-      "obsidian-kanban:Create new board": false
+      "command-palette:Open command palette": false
     }
   },
   "active": "be2fbe97353efd86",
   "lastOpenFiles": [
-    "OBSIDIAN VAULT/English/Stand-up/27-01-2026.md",
     "OBSIDIAN VAULT/English/Stand-up/28-01-2026.md",
+    "OBSIDIAN VAULT/English/Stand-up/30-01-2026.md",
+    "OBSIDIAN VAULT/English/Stand-up/27-01-2026.md",
     "OBSIDIAN VAULT/English/Stand-up/26-01-2026.md",
     "OBSIDIAN VAULT/English/Prompt.md",
     "2026-01-27.md",
@@ -202,7 +202,6 @@
     "Resources/UniTask.md",
     "Resources/ZString.md",
     "Resources/TriInspector.md",
-    "OBSIDIAN VAULT/Visual Studio Code/2. Shortcuts.md",
     "OBSIDIAN VAULT/Linux",
     "OBSIDIAN VAULT/Unity Test",
     "OBSIDIAN VAULT/MMO"
